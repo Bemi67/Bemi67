@@ -7,6 +7,10 @@ Me considero una persona responsable, proactiva, organizada, me encanta la efici
 
 ## Lenguajes y Herramientas
 
+*C#
+*.NET
+*Xamarin
+*MAUI
 * JavaScripit
 * React
 * Redux
